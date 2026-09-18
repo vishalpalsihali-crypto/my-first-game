@@ -1,4 +1,4 @@
 # my-first-game
 this is my first repository
 <br>
-author-vishal pal
+author-vishal (pal shabh)
