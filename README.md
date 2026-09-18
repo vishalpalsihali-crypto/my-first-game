@@ -1,4 +1,3 @@
-# my-first-game
-this is my first repository
-<br>
+# my first game
+this s my first repo
 author-vishal pal
